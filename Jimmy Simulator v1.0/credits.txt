@@ -1,0 +1,8 @@
+Jimmy Simulator
+
+Created by Yale Zhang
+Based on Jimmy Thuruthen
+Sprites by Jimmy Thuruthen and Yale Zhang
+Not inspired by an Instagram comment made by Robert Zhang
+Music found by Aidan Tran
+SFX taken from the Scratch sound library

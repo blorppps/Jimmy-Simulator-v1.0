@@ -1,0 +1,20 @@
+--CONTROLS--
+WASD to move
+QE to turn/attack
+tab to block
+R to heal
+
+--CHEATS--
+1 to go back a level
+2 to go forward a level
+3 to heal
+4 to remove all enemies
+
+enable/disable cheats in the launcher
+attempting to go to a level that does not exist will result in an error
+
+--INSTRUCTIONS--
+move to the right side of the screen once all enemies are defeated to progress
+health packs will appear on certain levels
+
+non-horror mode disables the jumpscares on level 10
